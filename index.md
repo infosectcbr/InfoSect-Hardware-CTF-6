@@ -1,4 +1,4 @@
-# Hardware CTF 1
+# Hardware CTF 6
 
 This is the Hardware CTF 6.
 
