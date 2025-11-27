@@ -67,6 +67,7 @@ Open up minicom in a Linux terminal. Assuming the USB serial adapter is on /dev/
 ```
 $ sudo apt-get install minicom
 $ sudo minicom -D /dev/ttyUSB0
+```
 
 Type ctrl-a, then 'z' on it's own. This will enter you into the menu system.
 
